@@ -4,7 +4,7 @@
 
 HR has a large amount of data on staff in an organization.  This can be very useful for an organization, however most organizations do not leverage there data in a useful way.  HR has data such as salary, home addresses, education, years at the organization and much more.  The dataset I will be working will is called the HR Analytics Case Study, which can be found on [Kaggle](https://www.kaggle.com/vjchoudhary7/hr-analytics-case-study).
 
-My goal is to look at the data to see how we can use linear and logistic regressions to make future predictions.
+My goal is to look at the data to see how we can use a linear regression, a logistic regression, and k-means cluster to glean useful information that the company can leverage.
 
 ## Contents
 - [Data](): contains original data and manipulated data used for k-means clustering, along with outputs from the predictions.
@@ -15,8 +15,9 @@ My goal is to look at the data to see how we can use linear and logistic regress
 
 This project will use linear and logistic regressions to execute the following goals:
 
-1) Can we use a linear regression to make predictions of salary based on education level and exeperience?
-2) Can we use a logistic regressions to predict geneder based on salary and education level? 
+1) Can we use a linear regression to make predictions of how long someone someone has worked at the company?
+2) Can we use a logistic regressions to predict geneder of an employee?
+3) Can we use a k-means cluster to determine if there are any hidden groups in the employees?
 
 
 ## Dataset
@@ -60,4 +61,3 @@ This data set is from a Kaggle data set called ["HR Analytics Case Study"](https
 
 ## Conclusion
 
-Overall, using a standard scaler on the 40-yard dash and vertical jump feautres provided the most useful and interesting clustering.  The data was clusterd in such a way that we could really see clear groups that performed better to worse on these categories.  With this simple clustering, teams could better determine, which players would suit their needs as wide receiver, as well as seeing if these players could be converted to other positions based on their needs.
