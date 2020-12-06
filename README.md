@@ -50,6 +50,7 @@ This data set is from a Kaggle data set called ["HR Analytics Case Study"](https
 - YearsWithCurrManager: Number of times training was conducted for this employee last year
 
 ## Requirements
+- yellowbrick
 - sklearn
 - matplotlib
 - numpy
