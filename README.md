@@ -7,8 +7,8 @@ HR has a large amount of data on staff in an organization.  This can be very use
 My goal is to look at the data to see how we can use a linear regression, a logistic regression, and k-means cluster to glean useful information that the company can leverage.
 
 ## Contents
-- [Data](): contains original data and manipulated data used for k-means clustering, along with outputs from the predictions.
-- [Notebooks](): contains the Jupyter notebooks used for data analysis and creating linear and logisitc regressions.
+- [Data](https://github.com/frank-salah1/Fun-with-HR/tree/main/Data): contains original data and manipulated data used for k-means clustering, along with outputs from the predictions.
+- [Notebooks](https://github.com/frank-salah1/Fun-with-HR/tree/main/Notebooks): contains the Jupyter notebooks used for data analysis and creating linear and logisitc regressions.
 -Final Report.ipynb
 
 ## Goal
