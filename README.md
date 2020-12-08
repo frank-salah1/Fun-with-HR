@@ -15,8 +15,8 @@ My goal is to look at the data to see how we can use a linear regression, a logi
 
 This project will use linear and logistic regressions to execute the following goals:
 
-1) Can we use a linear regression to make predictions of how long someone someone has worked at the company?
-2) Can we use a logistic regressions to predict gender of an employee?
+1) Can we use a linear regression to predict long someone someone has worked at the company?
+2) Can we use a logistic regressions to predict the gender of an employee?
 3) Can we use a k-means cluster to determine if there are any hidden groups in the employees?
 
 
